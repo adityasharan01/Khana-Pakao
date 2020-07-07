@@ -6,10 +6,11 @@ body {
   color: #fff;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 0;
-  background-image: url("aromatic.jpg");
+  /* background-image: url("aromatic.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: center center; */
+  background: linear-gradient(rgb(47,150,163),rgb(48,62,143));
   height:100vh;
   background-attachment: fixed;
 
