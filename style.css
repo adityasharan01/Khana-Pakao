@@ -10,7 +10,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; */
-  background: linear-gradient(rgb(47,150,163),rgb(48,62,143));
+  background: linear-gradient(#FDC830,#F37335);
   height:100vh;
   background-attachment: fixed;
 
